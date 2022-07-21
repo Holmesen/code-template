@@ -1,0 +1,24 @@
+{
+  "name": "code-template",
+  "version": "1.0.0",
+  "description": "前端配置工程化模板",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Holmesen/code-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Holmesen/code-template/issues"
+  },
+  "homepage": "https://github.com/Holmesen/code-template#readme"
+}
